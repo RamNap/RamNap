@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RamNap
 - 👀 I’m interested in learning more in the world of computers and computer science.
 - 🌱 I’m currently learning on the job and from whatever <10 minute youtube videos I can find.
-- 💞️ I’m looking to build some shtuff
+- 💞️ I’m looking to build some shtuff for fun and to develop my skills.
 
 <!---
 RamNap/RamNap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
